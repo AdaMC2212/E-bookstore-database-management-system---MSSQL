@@ -67,4 +67,4 @@ the unit price
 
 ## Entity Relationship Diagram
 
-![Entity Relationship Diagram for e-bookstore database system](ERD_IDB.png)
+![Entity Relationship Diagram for e-bookstore database system](ERD.png)
