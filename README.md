@@ -2,6 +2,8 @@
 
 This is an e-bookstore database system created with SQL using MSSQL.
 
+Group Member : <a href="https://github.com/AdaMC2212">**Yong Xiang**</a>, <a href="https://github.com/sebasdiii">**Weng Thim**</a> 
+
 ## Introduction to Database Management
 
 - Worked as part of a team to build a relational database for an  
