@@ -6,8 +6,7 @@ Group Member : <a href="https://github.com/AdaMC2212">**Yong Xiang**</a>, <a hre
 
 ## Introduction to Database Management
 
-- Worked as part of a team to build a relational database for an  
-- E-bookstore using MSSQLServer. 
+- Worked as part of a team to build a relational database for an E-bookstore using MSSQLServer. 
 - Applied Business Rules, Normalisation up to 3rd Normal Form
 - Applied Data Definition Language and Data Manipulation Language
 - Responsible for establishing relationships between entities in an ERD
